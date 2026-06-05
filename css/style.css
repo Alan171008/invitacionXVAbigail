@@ -98,7 +98,7 @@ body{
         rgba(13,71,161,.55),
         rgba(100,181,246,.45)
     ),
-    url("img/portada.png");
+url("../img/portada.png")
     background-size:cover;
     background-position:center;
     display:flex;
